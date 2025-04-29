@@ -1,0 +1,35 @@
+
+
+
+Spam Messages:
+"URGENT! Your account has been compromised. Please log in immediately to secure your account: [link]"
+
+"Exclusive offer! Get a FREE iPhone if you sign up now! Click here: [link]"
+
+"You’ve won a $5000 gift card! Claim your prize by entering your details here: [link]"
+
+"Congratulations! You are selected for a lottery worth $1 million! To claim, reply to this message."
+
+"Your Netflix subscription will expire in 24 hours. Please update your payment information immediately to avoid interruption: [link]"
+
+"Dear customer, you have a parcel awaiting pickup at your local post office. Click here to confirm your delivery details: [link]"
+
+"Account Alert: Your PayPal account has been flagged for suspicious activity. Please log in immediately to resolve the issue: [link]"
+
+
+
+
+Not Spam Messages:
+"Hey, I just wanted to check in and see how you're doing. Let's catch up soon!"
+
+"Reminder: Meeting tomorrow at 3 PM. Don’t forget to bring the project documents."
+
+"Here’s the report you asked for. Let me know if you need any changes."
+
+"Can you please confirm the time for our dinner this weekend? Looking forward to it!"
+
+"I hope you’re having a great day! Just wanted to let you know about the new updates in the project."
+
+"We missed you at the last team meeting. Here’s the summary of what was discussed."
+
+"Just a friendly reminder: Your subscription is due for renewal in 3 days."
